@@ -1,0 +1,23 @@
+{
+  "name": "practice-node",
+  "version": "1.0.0",
+  "description": "💻Learning how to use Node.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unknick199x/Practice-NodeJS-and-ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unknick199x/Practice-NodeJS-and-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/Unknick199x/Practice-NodeJS-and-ExpressJS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
